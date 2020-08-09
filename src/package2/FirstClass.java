@@ -6,5 +6,6 @@ public class FirstClass {
 	
 		System.out.println("This is the first changes from local master");
         System.out.println("This is second commit from local master");
+        System.out.println("this is the third commit from local repo");
 	}
 }
