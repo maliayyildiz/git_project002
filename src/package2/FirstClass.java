@@ -16,5 +16,6 @@ public class FirstClass {
 		System.out.println("fisrt commit from mali branch");
 		
 		System.out.println("second commit from local mali ");
+		System.out.println("third commit from lacal mali");
 	}
 }
