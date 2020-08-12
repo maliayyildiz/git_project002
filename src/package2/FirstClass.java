@@ -16,10 +16,17 @@ public class FirstClass {
 		System.out.println("fisrt commit from mali branch");
 		
 		System.out.println("second commit from local mali ");
+
 		System.out.println("third commit from lacal mali");
+<<<<<<< HEAD
 		System.out.println("self study...");
 		
 		System.out.println("trying new conflict");
 		
+=======
+
+		System.out.println("this is for conflict ");
+
+>>>>>>> edb6e3e85c7744d6dc6a731937c7f0bd31c0c95c
 	}
 }
